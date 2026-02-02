@@ -40,7 +40,7 @@ Using this package guarantees the standardization of API responses, meaning you 
 ## Installation
 To install Laravel Missed API Response Wrapper, just run the following command:
 ```bash
-composer require negartarah/apiwrapper
+composer require negartarh/apiwrapper
 ```
 ## Configuration
 After installing the package, you need to publish its configuration file. To do that, run the following command:
