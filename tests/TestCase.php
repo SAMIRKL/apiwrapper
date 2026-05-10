@@ -34,7 +34,7 @@ class TestCase extends Orchestra
 	 *
 	 * @return array An array of service provider class names.
 	 */
-	protected function getPackageProviders($app): array
+	protected function getPackageProviders(Application $app): array
 	{
 		return [
 			APIResponseServiceProvider::class,
